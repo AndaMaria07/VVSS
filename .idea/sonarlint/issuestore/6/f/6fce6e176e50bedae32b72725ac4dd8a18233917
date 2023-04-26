@@ -1,0 +1,35 @@
+
+r
+java:S1104"\Make minGreaterErrMsg a static final constant or non-public and provide accessors if needed.(À¹Ñ¹
+k
+java:S1104"UMake minErrMsg a static final constant or non-public and provide accessors if needed.(÷ÀË«
+v
+java:S1104"[Make emptyNameErrMsg a static final constant or non-public and provide accessors if needed.(·×¨áıÿÿÿÿ
+l
+java:S1104	"WMake priceErrMsg a static final constant or non-public and provide accessors if needed.(Ûà×m
+l
+java:S1104
+"WMake stockErrMsg a static final constant or non-public and provide accessors if needed.(Ì¥ß4
+z
+java:S1104"_Make minGreaterMaxErrMsg a static final constant or non-public and provide accessors if needed.(¶„·Ğùÿÿÿÿ
+r
+java:S1104"\Make stockLowerErrMsg a static final constant or non-public and provide accessors if needed.(Ñ¸®—
+t
+java:S1104"^Make stockGreaterErrMsg a static final constant or non-public and provide accessors if needed.(Ó¼å
+L
+java:S1444"6Make this "public static minGreaterErrMsg" field final(À¹Ñ¹
+E
+java:S1444"/Make this "public static minErrMsg" field final(÷ÀË«
+P
+java:S1444"5Make this "public static emptyNameErrMsg" field final(·×¨áıÿÿÿÿ
+F
+java:S1444	"1Make this "public static priceErrMsg" field final(Ûà×m
+F
+java:S1444
+"1Make this "public static stockErrMsg" field final(Ì¥ß4
+T
+java:S1444"9Make this "public static minGreaterMaxErrMsg" field final(¶„·Ğùÿÿÿÿ
+L
+java:S1444"6Make this "public static stockLowerErrMsg" field final(Ñ¸®—
+N
+java:S1444"8Make this "public static stockGreaterErrMsg" field final(Ó¼å
