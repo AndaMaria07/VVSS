@@ -1,3 +1,25 @@
 
 b
 2src/main/java/inventory/controller/Controller.java,a\6\a6635e298a8cf86a761fdee9b7ec350061490945
+l
+<src/main/java/inventory/controller/MainScreenController.java,f\e\fe123040025ffc7790be0315cb187fb9b2631761
+l
+<src/main/java/inventory/controller/ModifyPartController.java,2\b\2be59cab73aba69f05fe8c6ed684b45b480c876c
+o
+?src/main/java/inventory/controller/ModifyProductController.java,9\c\9cd8fd867bf6d05ab23fd072c876cc5fe298b358
+o
+?src/main/java/inventory/exceptions/isValidProductException.java,1\5\15ad6bfc8a161e628f2763831ffc55a072ac7f07
+k
+;src/main/java/inventory/repository/InventoryRepository.java,9\5\959d3be9e6d77120b22cdef08892aae567b3ccfc
+\
+,src/main/java/inventory/model/Inventory.java,6\f\6f314193286495a02fb473e4cf32b85ed85f7dcf
+f
+6src/main/java/inventory/repository/PartRepository.java,8\e\8e261b5e639fe0ec7cf72a1c62e09d9d52b5e2ed
+i
+9src/main/java/inventory/repository/ProductRepository.java,6\2\62b718e516c3bd8597ee1cc92af4a235fe19c416
+`
+0src/main/java/inventory/service/PartService.java,3\9\39b589a986e7d3b263a7a8875ab9d9a2828385c3
+l
+<src/main/java/inventory/controller/AddProductController.java,e\b\ebc32a263b34eeff26b01cbf68aed681310714be
+i
+9src/main/java/inventory/controller/AddPartController.java,6\0\60c45c8b83590f796b548300881eb5e32034406b

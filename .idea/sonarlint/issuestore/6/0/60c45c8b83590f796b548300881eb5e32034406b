@@ -1,0 +1,25 @@
+
+i
+java:S3655f"LCall "result.isPresent()" or "!result.isEmpty()" before accessing the value.(ÃÇûŞ8±ëğƒğ0
+
+java:S11867"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¥×¹<8¿ëğƒğ0
+x
+java:S1450"[Remove the "errorMessage" field and declare it as a local variable in the relevant methods.(ÊÃ‘æ8Êëğƒğ0
+q
+java:S1450"TRemove the "scene" field and declare it as a local variable in the relevant methods.(‹ôÒ¡8Ëëğƒğ0
+v
+java:S1450"TRemove the "stage" field and declare it as a local variable in the relevant methods.(‹ğÑœıÿÿÿÿ8Ìëğƒğ0
+=
+java:S2129" Remove this "String" constructor(ÊÃ‘æ8äëğƒğ0
+X	java:S125P"<This block of commented-out lines of code should be removed.( ÆüÖ8¢ìğƒğ0
+Z	java:S106g"9Replace this use of System.out or System.err by a logger.(©²²éúÿÿÿÿ8Èìğƒğ0
+U	java:S106j"9Replace this use of System.out or System.err by a logger.(¤Õï«8Ììğƒğ0
+X
+java:S2209•"5Change this instance-reference to a static reference.(ô§´Îøÿÿÿÿ8ÀÊğ0
+J
+java:S1125"'Remove the unnecessary boolean literal.(ÿÂóéüÿÿÿÿ8Úìğƒğ0
+[	java:S106¦"9Replace this use of System.out or System.err by a logger.(Éâ…ºıÿÿÿÿ8àìğƒğ0
+N
+java:S1128"1Remove this unused import 'inventory.model.Part'.(šûØÇ8ªÀÊğ0
+L
+java:S1068"*Remove this unused "partId" private field.(•›™âıÿÿÿÿ8ãìğƒğ0
