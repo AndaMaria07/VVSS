@@ -181,6 +181,13 @@ public class InventoryRepositoryFile {
 		writeAll();
 	}
 
+	public void addProduct2(Product product){
+
+		inventoryRepositoryInMemory.addProduct(product);
+
+	}
+
+
 	public int getAutoPartId(){
 		return inventoryRepositoryInMemory.getAutoPartId();
 	}
