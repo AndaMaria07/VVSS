@@ -13,7 +13,7 @@ import static inventory.validator.PartValidator.*;
 import static inventory.validator.PartValidator.emptyNameErrMsg;
 import static org.junit.jupiter.api.Assertions.*;
 
-class InventoryServiceTest {
+public class InventoryServiceTest {
 
     InventoryService service;
 
