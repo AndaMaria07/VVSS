@@ -15,7 +15,7 @@ import org.junit.jupiter.api.Timeout;
 
 public class InventoryTest {
 
-    private InventoryRepositoryInMemory repo;
+    public InventoryRepositoryInMemory repo;
 
     @Test
     @BeforeEach
@@ -27,11 +27,13 @@ public class InventoryTest {
 
     @Test
     void lookupProduct_WBT_1(){
+        repo = new InventoryRepositoryInMemory();
         assertNull(repo.lookupProduct(""));
     }
 
     @Test
     void lookupProduct_WBT_2(){
+        repo = new InventoryRepositoryInMemory();
         repo.addProduct(new Product(1,"Cutie", 5, 2,20,50));
         repo.addProduct(new Product(1,"Usa", 20, 2,20,50));
         assertEquals(new Product(1,"Cutie", 5, 2,20,50),repo.lookupProduct("Cutie"));
