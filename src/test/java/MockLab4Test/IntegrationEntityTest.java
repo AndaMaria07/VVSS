@@ -17,6 +17,7 @@ import static org.junit.jupiter.api.Assertions.assertThrows;
 public class IntegrationEntityTest {
     InventoryService service;
 
+    @Test
     @BeforeEach
     void setUp() {
         PartValidator partValidator = new PartValidator();
