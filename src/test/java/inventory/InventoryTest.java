@@ -17,6 +17,7 @@ public class InventoryTest {
 
     private InventoryRepositoryInMemory repo;
 
+    @Test
     @BeforeEach
     void setUp() {
         repo = new InventoryRepositoryInMemory();
