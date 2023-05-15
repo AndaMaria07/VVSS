@@ -29,3 +29,15 @@ j
 :src/main/java/inventory/validator/ValidationException.java,2\b\2bbbfa1510ca1352dd9a8d770cb16573ce7425c8
 g
 7src/main/java/inventory/validator/ProductValidator.java,c\a\ca76261f4061bc05ba42bf59128b54b00ae6995b
+c
+3src/main/java/inventory/service/ProductService.java,8\d\8df8681d14d3a7e03fc9620f74db2d25049607da
+s
+Csrc/main/java/inventory/repository/InventoryRepositoryInMemory.java,9\5\95371750025dc9d487c62116b76729be180c0e8e
+f
+6src/main/java/inventory/repository/PartRepository.java,8\e\8e261b5e639fe0ec7cf72a1c62e09d9d52b5e2ed
+Q
+!src/main/java/inventory/Main.java,e\c\ece56c845d15f2c366abf3aa1a07420ba35ea01b
+k
+;src/main/java/inventory/repository/InventoryRepository.java,9\5\959d3be9e6d77120b22cdef08892aae567b3ccfc
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
