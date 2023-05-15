@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 
 
 public class ProductTest {
-    Product prod;
+    public Product prod;
 
     @BeforeEach
     void setUp() {
