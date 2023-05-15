@@ -39,3 +39,9 @@ Q
 !src/main/java/inventory/Main.java,e\c\ece56c845d15f2c366abf3aa1a07420ba35ea01b
 k
 ;src/main/java/inventory/repository/InventoryRepository.java,9\5\959d3be9e6d77120b22cdef08892aae567b3ccfc
+o
+?src/main/java/inventory/repository/InventoryRepositoryFile.java,a\8\a85eb485ad9e6803c7136db69de9f554c4b43343
+Z
+*src/main/java/inventory/model/Product.java,b\1\b1f9f60d378ed17b8cfbd23f6880c72f0d6cb447
+>
+data/items.txt,9\d\9d6d1563f7ff0ab5ef14a8f0122a1bf4dd491854
