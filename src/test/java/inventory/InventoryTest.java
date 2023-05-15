@@ -13,7 +13,7 @@ import static org.junit.jupiter.api.Assertions.assertNull;
 
 import org.junit.jupiter.api.Timeout;
 
-public class InventoryRepositoryTest {
+public class InventoryTest {
 
     private InventoryRepositoryInMemory repo;
 
